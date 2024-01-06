@@ -1,0 +1,15 @@
+.add-todo{
+    margin-left: 10px;
+    border-radius: 5px;
+    border: 1px solid #bdbdbd;
+  }
+  
+  .add-todo:hover{
+    margin-left: 10px;
+    border-radius: 5px;
+    border: 1px solid #bdbdbd;
+    background-color: #9e2de5;
+    color: wheat;
+  }
+
+  
