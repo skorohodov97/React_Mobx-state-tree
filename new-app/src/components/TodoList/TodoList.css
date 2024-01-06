@@ -1,0 +1,28 @@
+.contener{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.imgState{
+    margin-right: 5px;
+    width:40px;
+    height:40px;
+}
+.todo-item{
+  width: 525px ;  
+}
+.btnDelete{
+    width:50px;
+    height:40px;
+    border: none;
+}
+.btnDelete:hover{
+    width:50px;
+    height:40px;
+    border: none;
+    background-color: #9e2de5;
+    color: wheat;
+  }
+
+
